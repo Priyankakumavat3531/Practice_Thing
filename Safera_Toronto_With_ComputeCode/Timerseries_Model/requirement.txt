@@ -1,0 +1,14 @@
+kaleido
+matplotlib==3.6.3
+matplotlib-inline==0.1.6
+numpy==1.23.5
+pandas==1.5.3
+Pillow==9.4.0
+plotly
+pyodbc
+scikit-image==0.19.3
+scikit-learn
+scikit-optimize==0.9.0
+scipy==1.8.1
+six==1.16.0
+skforecast==0.6.0
